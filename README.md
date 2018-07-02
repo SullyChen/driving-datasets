@@ -5,13 +5,17 @@ If you have a specific request or have an idea of how these datasets can be impr
 
 # 07/01/2018 Dataset
 Approximately 63,000 images, 3.1GB. Data was recorded around Rancho Palos Verdes and San Pedro California.
+
 [Link](https://drive.google.com/open?id=1PZWa6H0i1PCH9zuYcIh5Ouk_p-9Gh58B)
+
 Data format is as follows:
 `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
 # Dataset 1
 2.2GB. One of the original datasets I made in 2017. Data was recorded around Rancho Palos Verdes and San Pedro California.
+
 [Link](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view?usp=sharing)
+
 Data format is as follows:
 `filename.jpg angle`
 
