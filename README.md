@@ -23,6 +23,3 @@ Approximately 45,500 images, 2.2GB. One of the original datasets I made in 2017.
 
 Data format is as follows:
 `filename.jpg angle`
-
-# Support
-If you found these datasets helpful and would like to help cover the costs of producing these datasets, you can support through [PayPal](https://www.paypal.me/sullychen) or [Venmo](https://venmo.com/Sully-Chen). No pressure though, these datasets will still be here whether you support or not :)
