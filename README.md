@@ -19,7 +19,7 @@ Data format is as follows:
 # Dataset 1
 Approximately 45,500 images, 2.2GB. One of the original datasets I made in 2017. Data was recorded around Rancho Palos Verdes and San Pedro California.
 
-[Link](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view?usp=sharing&resourcekey=0-6B-ruIwhnt8rLOtTotmuVQ)
+[Link](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=sharing)
 
 Data format is as follows:
 `filename.jpg angle`
